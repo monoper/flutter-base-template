@@ -1,0 +1,5 @@
+name: basicAppTemplate
+description: Basic flutter application template
+version: "0.0.1"
+vars:
+  - appName

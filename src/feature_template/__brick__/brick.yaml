@@ -1,0 +1,5 @@
+name: featureTemplate
+description: Flutter Feature Template.
+version: "0.0.1"
+vars:
+  - featureName
