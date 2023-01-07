@@ -1,0 +1,29 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#68d1cc",
+    "activityBar.activeBorder": "#945bc4",
+    "activityBar.background": "#68d1cc",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#945bc4",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#68d1cc",
+    "statusBar.background": "#68d1cc",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#359268",
+    "statusBarItem.remoteBackground": "#68d1cc",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#68d1cc",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#68d1cc",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "cSpell.words": [
+    "{{appName}}",
+    "Formz"
+  ]
+}
