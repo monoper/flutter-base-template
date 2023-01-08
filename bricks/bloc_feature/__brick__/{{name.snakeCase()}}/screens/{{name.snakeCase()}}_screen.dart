@@ -7,7 +7,7 @@ class {{#pascalCase}}{{name}}{{/pascalCase}}Screen extends StatelessWidget {
   static Route<{{#pascalCase}}{{name}}{{/pascalCase}}Screen> route() =>
       MaterialPageRoute(builder: (_) => const {{#pascalCase}}{{name}}{{/pascalCase}}Screen());
 
-  static Page page() => const MaterialPage<void>(child: AddBudget());
+  static Page page() => const MaterialPage<void>(child: {{#pascalCase}}{{name}}{{/pascalCase}}Screen());
 
   @override
   Widget build(BuildContext context) {
